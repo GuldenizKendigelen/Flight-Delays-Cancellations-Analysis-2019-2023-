@@ -225,14 +225,13 @@ Permutation feature importance (performance loss when a feature is shuffled):
 
 ---
 
-## 📁 Repository Structure *(optional, adjust to your repo)*
+## 📁 Repository Structure 
 
 ```
 ├── README.md
 ├── data/            # raw and cleaned datasets (or link to the source)
 ├── sql/             # queries used for analysis
 ├── notebooks/       # statistical tests (chi-square, Cramér's V) and ML models
-├── reports/         # summary slides (delay and cancellation prediction)
 └── dashboard/       # screenshots and link to the Looker Studio report
 ```
 
