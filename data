@@ -1,0 +1,8 @@
+data/README.md
+# Data
+
+The original flight dataset is not included in this repository because of its large file size.
+
+The analysis was performed using a publicly available flight dataset covering January 2019 to August 2023.
+
+A small sample dataset may be included for demonstration purposes.
