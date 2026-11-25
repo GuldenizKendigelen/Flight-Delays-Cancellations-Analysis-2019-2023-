@@ -3,7 +3,7 @@
 **An end-to-end data analytics and machine learning project investigating when, where, and why U.S. domestic flights get delayed or cancelled, and whether those disruptions can be predicted before departure.**
 
 📊 **Live Dashboard:** [View the interactive report on Looker Studio](https://datastudio.google.com/reporting/24474319-3819-4958-b069-748e02579274)
-
+🔗 [View Trello Board( https://trello.com/b/jxYmTsjG/2019-2023-us-flight-data-analysis-and-machine-learning )
 ---
 
 ## 1. Title
